@@ -54,15 +54,6 @@ These files are directly used when running scripts in `/code`.
 - `regression_equal_no_ion_5_smaller.csv`  
   Original dataset passed down from a senior colleague.
 
----
-
-## /useful_papers
-Collection of key papers essential for understanding this study.
-
----
-
-## /progress ppt
-Presentations documenting the trajectory of experiments.
 
 ---
 
